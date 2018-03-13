@@ -1,0 +1,7 @@
+{
+  "name": "JSON / MongoDB backend",
+  "description": "This backend accepts JSON POST requests, responds to GET with JSON, and stores and reads from a MongoDB cloud database.",
+  "repository": "https://github.com/josinaga/json-backend",
+  "logo": "https://raw.githubusercontent.com/ajaxorg/ace/master/doc/site/images/logo.png",
+  "keywords": ["JSON", "MongoDB Cloud", "server", "RESTful"]
+}
